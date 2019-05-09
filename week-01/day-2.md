@@ -11,7 +11,7 @@ Day 2
 
 ### Lecture Topics
 * Git and Github
-* [JS Fundamentals](https://github.com/codeplatoon/curriculum/blob/master/week-01/lecture-materials/JSFundamentalsDay1.pdf)
+* [JS Fundamentals](https://github.com/codeplatoon/self-paced-curriculum/blob/master/week-01/lecture-materials/JSFundamentalsDay1.pdf)
 * Pair Programming
 
 ### Additonal Resources
