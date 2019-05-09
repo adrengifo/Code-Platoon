@@ -14,9 +14,9 @@ This will be chaos. Your goal is to get a working environment, not to understand
 * [Complete Installfest](https://gist.github.com/JYoung217/5a4bfdfecac5aa864075cfa68250bf5c)
 
 ### Challenges
-* [99 Bottles](https://github.com/indiaplatoon/99-Bottles) in JS
-* [Deaf Grandma](https://github.com/indiaplatoon/Deaf-Grandma) in JS
-* [Terminal Commands In Depth](https://github.com/indiaplatoon/Command-Line) - nothing to submit here but necessary reading
+* [99 Bottles](https://github.com/codeplatoon/99-Bottles) in JS
+* [Deaf Grandma](https://github.com/codeplatoon/Deaf-Grandma) in JS
+* [Terminal Commands In Depth](https://github.com/codeplatoon/Command-Line) - nothing to submit here but necessary reading
 
 ### Lecture Topics
 * Your new Integrated Development Environment (IDE)

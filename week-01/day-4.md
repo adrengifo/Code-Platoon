@@ -106,16 +106,16 @@ if __name__ == '__main__':
 Now that we've got the spec file finished, we can finally write our code! On your own, write your fizzbuzz method in `fizzbuzz.py` and see if it passes your tests.
 
 ### Other Lecture Topics
-* [Python Fundamentals](https://github.com/indiaplatoon/curriculum/blob/master/week-01/lecture-materials/python_fundamentals.md)
-* [JS Fundamentals](https://github.com/indiaplatoon/curriculum/blob/master/week-01/lecture-materials/javascript_control_flow.pdf) - control flow, if/else, loops, etc
+* [Python Fundamentals](https://github.com/codeplatoon/curriculum/blob/master/week-01/lecture-materials/python_fundamentals.md)
+* [JS Fundamentals](https://github.com/codeplatoon/curriculum/blob/master/week-01/lecture-materials/javascript_control_flow.pdf) - control flow, if/else, loops, etc
 
 ### Challenges
 We want you to solve today's challenges in Javascript and in Python. For the Python challenges, we want you to use test-driven development (TDD) in the testing framework we taught you today. Though spec files are included with `driver code` (code to help you `drive` your development), they aren't as robust as unit tests. For Javascript, we want you to use [JEST](https://jestjs.io/docs/en/getting-started.html) as it will translate into React testing later well.
 
-* [Armstrong Numbers](https://github.com/indiaplatoon/armstrong) in JS/Python
-* [Sum Pairs](https://github.com/indiaplatoon/sum-pairs) in JS/Python
-* [Credit Check](https://github.com/indiaplatoon/credit-check) in JS/Python
-* [Anagrams](https://github.com/indiaplatoon/anagrams) in JS and Python
+* [Armstrong Numbers](https://github.com/codeplatoon/armstrong) in JS/Python
+* [Sum Pairs](https://github.com/codeplatoon/sum-pairs) in JS/Python
+* [Credit Check](https://github.com/codeplatoon/credit-check) in JS/Python
+* [Anagrams](https://github.com/codeplatoon/anagrams) in JS and Python
 
 ### Additional Resources
 * [Quick TDD Article](https://quickleft.com/blog/use-test-driven-development-tdd/)
