@@ -9,8 +9,8 @@ Day 3
 * [Roman Numerals](https://github.com/codeplatoon/roman-numerals) in Python
 
 ### Lecture Topics
-* [Python Fundamentals](https://github.com/codeplatoon/curriculum/blob/master/week-01/lecture-materials/python_fundamentals.md)
-* [JS Fundamentals](https://github.com/codeplatoon/curriculum/blob/master/week-01/lecture-materials/javascript_control_flow.pdf) and Data Collections
+* [Python Fundamentals](https://github.com/codeplatoon/self-paced-curriculum/blob/master/week-01/lecture-materials/python_fundamentals.md)
+* [JS Fundamentals](https://github.com/codeplatoon/self-paced-curriculum/blob/master/week-01/lecture-materials/javascript_control_flow.pdf) and Data Collections
 
 ### Additonal Resources
 * [JS Array Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)

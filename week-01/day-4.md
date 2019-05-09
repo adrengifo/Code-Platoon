@@ -106,8 +106,8 @@ if __name__ == '__main__':
 Now that we've got the spec file finished, we can finally write our code! On your own, write your fizzbuzz method in `fizzbuzz.py` and see if it passes your tests.
 
 ### Other Lecture Topics
-* [Python Fundamentals](https://github.com/codeplatoon/curriculum/blob/master/week-01/lecture-materials/python_fundamentals.md)
-* [JS Fundamentals](https://github.com/codeplatoon/curriculum/blob/master/week-01/lecture-materials/javascript_control_flow.pdf) - control flow, if/else, loops, etc
+* [Python Fundamentals](https://github.com/codeplatoon/self-paced-curriculum/blob/master/week-01/lecture-materials/python_fundamentals.md)
+* [JS Fundamentals](https://github.com/codeplatoon/self-paced-curriculum/blob/master/week-01/lecture-materials/javascript_control_flow.pdf) - control flow, if/else, loops, etc
 
 ### Challenges
 We want you to solve today's challenges in Javascript and in Python. For the Python challenges, we want you to use test-driven development (TDD) in the testing framework we taught you today. Though spec files are included with `driver code` (code to help you `drive` your development), they aren't as robust as unit tests. For Javascript, we want you to use [JEST](https://jestjs.io/docs/en/getting-started.html) as it will translate into React testing later well.
