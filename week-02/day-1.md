@@ -7,6 +7,6 @@ Day 1
 * [Python Classes](https://github.com/codeplatoon/self-paced-curriculum/blob/master/week-01/lecture-materials/python-oop.md)
 
 ## Challenges
-* [Guessing Game](https://github.com/codeplatoonplatoon/guessing-game) in Python (Object Orientation)
-* [Boggle](https://github.com/codeplatoonplatoon/boggle) in Python (Object Orientation)
-* [Boggle Part 2](https://github.com/codeplatoonplatoon/boggle-2) (Object Orientation)
+* [Guessing Game](https://github.com/codeplatoon/guessing-game) in Python (Object Orientation)
+* [Boggle](https://github.com/codeplatoon/boggle) in Python (Object Orientation)
+* [Boggle Part 2](https://github.com/codeplatoon/boggle-2) (Object Orientation)
