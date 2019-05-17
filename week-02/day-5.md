@@ -7,7 +7,7 @@ Day 5
 * Assessment #1. Relax. You got this.
 
 ### Afternoon Group Project
-* Is it better to work in groups or on your own? Solve [Sudoku](https://github.com/indiaplatoon/sudoku) and find out!
+* Is it better to work in groups or on your own? Solve [Sudoku](https://github.com/codeplatoon/sudoku) and find out!
 
 ### Homework
 * Simply finish up the group project

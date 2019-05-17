@@ -60,8 +60,8 @@ staff # my original has been changed yet again!
 
 ### Challenges
 * [RegexOne](https://regexone.com/python)
-* [Phone Numbers](https://github.com/indiaplatoon/validate-phone) in Python Regular Expressions
-* [Stock Picker](https://github.com/indiaplatoon/stockpicker) in JS/Python
+* [Phone Numbers](https://github.com/codeplatoon/validate-phone) in Python Regular Expressions
+* [Stock Picker](https://github.com/codeplatoon/stockpicker) in JS/Python
 
 ### Additonal Resources
 * [Great Tutorial](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)
