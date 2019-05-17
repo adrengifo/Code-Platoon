@@ -4,9 +4,9 @@ Day 1
 - [Week 2 Videos](https://www.youtube.com/playlist?list=PLu0CiQ7bzwEQT_GDPFAx7E7awUWCv5zMu)
 
 ## Object Orientation
-* [Python Classes](https://github.com/indiaplatoon/curriculum/blob/master/week-01/lecture-materials/python-oop.md)
+* [Python Classes](https://github.com/codeplatoon/self-paced-curriculum/blob/master/week-01/lecture-materials/python-oop.md)
 
 ## Challenges
-* [Guessing Game](https://github.com/indiaplatoon/guessing-game) in Python (Object Orientation)
-* [Boggle](https://github.com/indiaplatoon/boggle) in Python (Object Orientation)
-* [Boggle Part 2](https://github.com/indiaplatoon/boggle-2) (Object Orientation)
+* [Guessing Game](https://github.com/codeplatoonplatoon/guessing-game) in Python (Object Orientation)
+* [Boggle](https://github.com/codeplatoonplatoon/boggle) in Python (Object Orientation)
+* [Boggle Part 2](https://github.com/codeplatoonplatoon/boggle-2) (Object Orientation)

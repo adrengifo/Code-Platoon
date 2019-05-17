@@ -83,9 +83,9 @@ while age < 21:
 * The code above will run and stop when it hits `embed()`. You can see what `age` is. Ultimately, you want to use this when you hit issues and need help debugging your code.
 
 ### Challenges
-* [Caesar Cipher](https://github.com/indiaplatoon/caesar-cipher) in JS/Python
-* [Pig Latin](https://github.com/indiaplatoon/pig-latin) in JS/Python
-* [Bubble Sort](https://github.com/indiaplatoon/bubble-sort) in JS/python
+* [Caesar Cipher](https://github.com/codeplatoon/caesar-cipher) in JS/Python
+* [Pig Latin](https://github.com/codeplatoon/pig-latin) in JS/Python
+* [Bubble Sort](https://github.com/codeplatoon/bubble-sort) in JS/python
 
 ### Homework
 * Study up on object orientation
