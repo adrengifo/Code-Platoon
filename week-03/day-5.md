@@ -1,7 +1,7 @@
 Day 5
 ====================
 ### Video Resources (India Platoon)
-- [Week 3 Videos](https://www.youtube.com/pl)aylist?list=PLu0CiQ7bzwERYl9BQgqCObTzijFbd73Oe
+- [Week 3 Videos](https://www.youtube.com/playlist?list=PLu0CiQ7bzwERYl9BQgqCObTzijFbd73Oe)
 
 ### Lecture Topics
 * Big O Notation
