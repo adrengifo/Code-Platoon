@@ -4,9 +4,9 @@ Day 2
 - [Week 3 Videos](https://www.youtube.com/playlist?list=PLu0CiQ7bzwERYl9BQgqCObTzijFbd73Oe)
 
 ### Challenges
-* [Word Guess CSV](https://github.com/indiaplatoon/word-guess)
-* [School Interface One](https://github.com/indiaplatoon/school-interface-one)
-* [Bowling](https://github.com/indiaplatoon/bowling)
+* [Word Guess CSV](https://github.com/codeplatoon/word-guess)
+* [School Interface One](https://github.com/codeplatoon/school-interface-one)
+* [Bowling](https://github.com/codeplatoon/bowling)
 
 ### What is a Database?
 A _database_ is a system of storing and organizing information on a computer. We `query` the database using `SQL` (to be covered next week). In preparation for next week, we will be reading/writing to a _CSV_ file. In most cases a database can be thought of as a table or group of tables:

@@ -4,8 +4,8 @@ Day 1
 - [Week 3 Videos](https://www.youtube.com/playlist?list=PLu0CiQ7bzwERYl9BQgqCObTzijFbd73Oe)
 
 ### Challenges
-* [Apple Trees](https://github.com/indiaplatoon/apple-trees)
-* [Ice Cream and Freezers](https://github.com/indiaplatoon/ice-cream-and-freezers)
+* [Apple Trees](https://github.com/codeplatoon/apple-trees)
+* [Ice Cream and Freezers](https://github.com/codeplatoon/ice-cream-and-freezers)
 
 ### Lecture Topics
 * Python Variables

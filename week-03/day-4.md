@@ -4,8 +4,8 @@ Day 4
 - [Week 3 Videos](https://www.youtube.com/playlist?list=PLu0CiQ7bzwERYl9BQgqCObTzijFbd73Oe)
 
 ### Challenges
-* [School Interface Three](https://github.com/indiaplatoon/school-interface-three)
-* [Bank Accounts](https://github.com/indiaplatoon/bank-accounts)
+* [School Interface Three](https://github.com/codeplatoon/school-interface-three)
+* [Bank Accounts](https://github.com/codeplatoon/bank-accounts)
 
 ### Lecture Topics
 * Object-Oriented Programming vs. Functional Programming

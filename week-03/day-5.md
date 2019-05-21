@@ -8,9 +8,9 @@ Day 5
 * More advanced Python collection methods
 
 ### Challenges
-* [School Interface Four](https://github.com/indiaplatoon/school-interface-four)
-* [Big O Problems 1](https://github.com/indiaplatoon/big-o)
-* [Big O Problems 2](https://github.com/indiaplatoon/big-o-2)
+* [School Interface Four](https://github.com/codeplatoon/school-interface-four)
+* [Big O Problems 1](https://github.com/codeplatoon/big-o)
+* [Big O Problems 2](https://github.com/codeplatoon/big-o-2)
 
 ### Big O Notation
 * [Slides](https://docs.google.com/presentation/d/1RNYAhAkNF3-UR9rzlBOaWJ0fyYundS0TAGXEYRv-Ybo/edit#slide=id.g22ef87eb09_0_23)
@@ -102,4 +102,4 @@ print(evenly_divisible_by_2)
 * Finish Assessment #2
 * SQL Intro
   * [PG Exercises](https://pgexercises.com/)
-  * [Read the Intro to Persistence](https://github.com/indiaplatoon/curriculum/blob/master/week-04/readings/persistence-intro.md)
+  * [Read the Intro to Persistence](https://github.com/codeplatoon/self-paced-curriculum/blob/master/week-04/readings/persistence-intro.md)
