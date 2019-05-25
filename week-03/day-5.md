@@ -5,15 +5,13 @@ Day 5
 
 ### Lecture Topics
 * Big O Notation
+  * [Slides](https://docs.google.com/presentation/d/1RNYAhAkNF3-UR9rzlBOaWJ0fyYundS0TAGXEYRv-Ybo/edit#slide=id.g22ef87eb09_0_23)
 * More advanced Python collection methods
 
 ### Challenges
 * [School Interface Four](https://github.com/codeplatoon/school-interface-four)
 * [Big O Problems 1](https://github.com/codeplatoon/big-o)
 * [Big O Problems 2](https://github.com/codeplatoon/big-o-2)
-
-### Big O Notation
-* [Slides](https://docs.google.com/presentation/d/1RNYAhAkNF3-UR9rzlBOaWJ0fyYundS0TAGXEYRv-Ybo/edit#slide=id.g22ef87eb09_0_23)
 
 ### Advanced Python Collection Methods
 #### Lambda Functions
