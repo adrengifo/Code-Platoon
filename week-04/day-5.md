@@ -4,5 +4,5 @@ Day 5
 - [Week 4 Videos](https://www.youtube.com/playlist?list=PLu0CiQ7bzwERcfp8HWFYBFLUdP5gP0lRM)
 
 ### Challenges
-* [Chicago Salaries](https://github.com/indiaplatoon/city-of-chicago)
+* [Chicago Salaries](https://github.com/codeplatoon/city-of-chicago)
 * Assessment #3 is due Monday
