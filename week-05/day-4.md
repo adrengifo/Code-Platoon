@@ -323,16 +323,14 @@ When we set `grid-column` on `#one` we are saying that we want this element to s
 Most browsers, including Chrome, support CSS Grid. If you open the Chrome dev tools and click on an element that has its `display` set to `grid`, you'll see a nice outline of the grid you are working with. This can be really helpful when debugging.  
 
 ![Chrome Dev Tools](./images/chrome-dev-tools.png)
-### Video Resources (Echo Platoon)
-- [Week 5 Videos](https://www.youtube.com/watch?v=u5UT7jBwbEU&list=PLu0CiQ7bzwESK8JWt1KVzAHzjo7cVhs-f)
 
 ## Challenges
-* [HTTP Server One](https://github.com/indiaplatoon/http-server-one)
+* [HTTP Server One](https://github.com/codeplatoon/http-server-one)
 * [Grid Garden game](http://cssgridgarden.com/)
-* [Make A Circle](https://github.com/indiaplatoon/make-a-circle)
-* [Top Ten](https://github.com/indiaplatoon/top-ten)
-* [Linkedin HTML](https://github.com/indiaplatoon/linkedin-html)
-* [Recreate hacker news](https://github.com/indiaplatoon/html-sectioning) (stretch)
+* [Make A Circle](https://github.com/codeplatoon/make-a-circle)
+* [Top Ten](https://github.com/codeplatoon/top-ten)
+* [Linkedin HTML](https://github.com/codeplatoon/linkedin-html)
+* [Recreate hacker news](https://github.com/codeplatoon/html-sectioning) (stretch)
 
 
 ## Resources
