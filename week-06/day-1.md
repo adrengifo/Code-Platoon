@@ -242,8 +242,8 @@ This code uses `querySelector()` to grab the form so we can get the data from it
 When we use `fetch()` to make a `POST` request, we need to pass it some additional information. We do this by passing a Javascript object as a second argument. That object will define some settings for our request. From there we handle the respose the same way we did when we made a `GET` request, ultimately appending the data to our `post-response` div. 
 
 ## Challenges
-* [Linkedin JS](https://github.com/indiaplatoon/linkedin-js)
-* [Browser Storage](https://github.com/indiaplatoon/browser-storage)
-* [Simple Todo](https://github.com/indiaplatoon/simple-todo)
+* [Linkedin JS](https://github.com/codeplatoon/linkedin-js)
+* [Browser Storage](https://github.com/codeplatoon/browser-storage)
+* [Simple Todo](https://github.com/codeplatoon/simple-todo)
 * All assignments up to this point that have not yet been completed
 

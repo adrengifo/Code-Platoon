@@ -183,9 +183,9 @@ We've created a database using Postgres and connected it to a Django project wit
 Next, we created a record (row) in our database using just Python and verified that it entered our Postgres database. Today, we're going to be learning just how powerful Django ORM is and the types of complicated SQL queries we can write in just a few lines of Python.
 
 ## Challenges
-* [Django Queries](https://github.com/indiaplatoon/django-Queries)
-* [Django Validations](https://github.com/indiaplatoon/django-validations)
-* [Django Associations](https://github.com/indiaplatoon/django-associations)
+* [Django Queries](https://github.com/codeplatoon/django-Queries)
+* [Django Validations](https://github.com/codeplatoon/django-validations)
+* [Django Associations](https://github.com/codeplatoon/django-associations)
 
 ## Resources
 * [Django Docs](https://docs.djangoproject.com/en/2.1/)

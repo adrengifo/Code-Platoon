@@ -155,8 +155,8 @@ As long as we import our own styles **after** Bootstrap's, we can override add o
 Most modern sites use a combination of Bootstrap (or some other framework) and their own styles. 
 
 ## Challenges
-* [HTTP Server Three](https://github.com/indiaplatoon/http-server-three)
-* [Styling With Bootstrap](https://github.com/indiaplatoon/bootstrap/blob/master/readme.md)
+* [HTTP Server Three](https://github.com/codeplatoon/http-server-three)
+* [Styling With Bootstrap](https://github.com/codeplatoon/bootstrap/blob/master/readme.md)
 
 ## Resources
 * [Slides](https://docs.google.com/presentation/d/18XgB39IqvBFXfJYKQdc5j2ZzlZBeOH_enugni6b__Cs/edit?usp=sharing)
