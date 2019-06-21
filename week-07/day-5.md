@@ -361,5 +361,5 @@ And just like that, we have nested CRUD! Visit your routes and see it work!
 
 ## Assignments
 - Before doing anything, make sure that you run through this tutorial and understand what's going on
-- [Cars and Brands](https://github.com/indiaplatoon/django-cars-and-brands)
-- [Beer Reviews](https://github.com/indiaplatoon/django-beer-ratings)
+- [Cars and Brands](https://github.com/codeplatoon/django-cars-and-brands)
+- [Beer Reviews](https://github.com/codeplatoon/django-beer-ratings)

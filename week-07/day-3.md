@@ -538,4 +538,4 @@ This tutorial is largely based off [Django Girls](https://tutorial.djangogirls.o
 
 ## Assignments
 - Before doing anything, make sure that you run through this tutorial and understand what's going on
-- [Event Calendar](https://github.com/indiaplatoon/django-event-calendar)
+- [Event Calendar](https://github.com/codeplatoon/django-event-calendar)

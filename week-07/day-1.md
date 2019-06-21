@@ -511,4 +511,4 @@ If you take a step back, we've created a small app where you can vote on a poll 
 
 ## Assignments
 - Before doing anything, make sure that you run through this tutorial and understand what's going on
-- [Posts and Comments](https://github.com/indiaplatoon/posts-and-comments)
+- [Posts and Comments](https://github.com/codeplatoon/posts-and-comments)

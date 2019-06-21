@@ -213,5 +213,5 @@ Visit http://localhost:8000/accounts/signup/, sign up, and log in! If you are in
 
 ### Challenges
 - Add sign up, login, and log out functionality to your completed...
-  - [ToDo List](https://github.com/indiaplatoon/django-todo)
-  - [Event Calendar](https://github.com/indiaplatoon/django-event-calendar)
+  - [ToDo List](https://github.com/codeplatoon/django-todo)
+  - [Event Calendar](https://github.com/codeplatoon/django-event-calendar)

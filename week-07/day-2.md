@@ -191,4 +191,4 @@ A huge shoutout to [Rayed](https://rayed.com/posts/2018/05/django-crud-create-re
 
 ## Assignments
 - Before doing anything, make sure that you run through this tutorial and understand what's going on
-- [Todo List](https://github.com/indiaplatoon/django-todo)
+- [Todo List](https://github.com/codeplatoon/django-todo)
