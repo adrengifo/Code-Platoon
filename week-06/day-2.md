@@ -1,7 +1,7 @@
 Day 2
 =====================
 ### Video Resources (India Platoon)
-- [Week 5 Videos](https://www.youtube.com/playlist?list=PLu0CiQ7bzwERd7yk9weQbUN5J7G11p0iv)
+- [Week 6 Videos](https://www.youtube.com/playlist?list=PLu0CiQ7bzwERd7yk9weQbUN5J7G11p0iv)
 
 # Bootstrap 
 
