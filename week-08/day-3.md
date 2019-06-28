@@ -311,6 +311,6 @@ Good luck on today's challenges!
 
 Challenges
 ----------
-* [Detention](https://github.com/indiaplatoon/detention)
-* [Palindrome](https://github.com/indiaplatoon/palindrome)
-* [State Abbreviator](https://github.com/indiaplatoon/state-abbreviator)
+* [Detention](https://github.com/codeplatoon/detention)
+* [Palindrome](https://github.com/codeplatoon/palindrome)
+* [State Abbreviator](https://github.com/codeplatoon/state-abbreviator)

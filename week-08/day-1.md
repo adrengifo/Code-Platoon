@@ -222,4 +222,4 @@ While today was a simple example of using a 3rd Party API, it can and will get m
 - Implement Update and Delete on this tutorial
 
 ## Challenges
-- [Ticketmaster](https://github.com/indiaplatoon/ticketmaster)
+- [Ticketmaster](https://github.com/codeplatoon/ticketmaster)

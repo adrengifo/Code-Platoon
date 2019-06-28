@@ -5,7 +5,7 @@ Day 4
 
 Basic React
 --------
-Let's walk through a challenge called [Mute Button](https://github.com/indiaplatoon/mute-button) together. The main purpose of this app is to teach us about React `props`, `state`, and how to organize our code efficiently.
+Let's walk through a challenge called [Mute Button](https://github.com/codeplatoon/mute-button) together. The main purpose of this app is to teach us about React `props`, `state`, and how to organize our code efficiently.
 
 To summarize our `original_readme`, we are trying to toggle between two different images on the page based on a user's clicks. The images can be found in the `icons` folder.
 
@@ -283,6 +283,6 @@ export default MuteButton;
 
 Challenges
 ----------
-* [Whack-A-Mole](https://github.com/indiaplatoon/whack-a-mole)
-* [Mad Lib](https://github.com/indiaplatoon/mad-lib)
-* [Hangman](https://github.com/indiaplatoon/hangman)
+* [Whack-A-Mole](https://github.com/codeplatoon/whack-a-mole)
+* [Mad Lib](https://github.com/codeplatoon/mad-lib)
+* [Hangman](https://github.com/codeplatoon/hangman)
